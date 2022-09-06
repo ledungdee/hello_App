@@ -6,8 +6,7 @@ end
 def goodbye
 	render html: "Goodbye, world!"
 end
-def string
-	render html: "Dũng đẹp trai!"
+
 end
 
 end
